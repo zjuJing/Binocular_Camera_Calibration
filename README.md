@@ -1,5 +1,5 @@
 # Binocular_Camera_Calibration
-Calibration for Binocular Camera using OpenCV
+Stereo calibration, rectification, and correspondence
 
 ## Environments
 OpenCV 4.1.2
